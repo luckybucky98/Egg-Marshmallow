@@ -1,2 +1,5 @@
 # Egg-Marshmallow
-This is a rom for the Oneplus Two. codenamed egg. 
+This is a Cyanogen Mod for a list of devices. 
+  - Moto play (victara) 
+  - More to come
+  - 
